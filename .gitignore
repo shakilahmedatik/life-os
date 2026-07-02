@@ -1,0 +1,15 @@
+# Binaries
+backend/lifeos
+frontend/dist/
+
+# Dependencies
+frontend/node_modules/
+
+# OS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
